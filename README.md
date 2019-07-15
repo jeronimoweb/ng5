@@ -2,7 +2,7 @@
 
 # NG5 - NOVA GERAÇÃO 5
 
-https://imgur.com/zplsx4G
+https://i.imgur.com/zplsx4G.jpg
 
 <h1> Summary </h1>
 
