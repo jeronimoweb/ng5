@@ -2,7 +2,7 @@
 
 # NG5 - NOVA GERAÇÃO 5
 
-https://media.licdn.com/dms/image/C5622AQG_c32GSJuFHQ/feedshare-shrink_8192/0?e=1565827200&v=beta&t=ho-ITX55xvHsjzT4OlGhiJtb2ZssjoCoPPvgjEMZON4
+https://imgur.com/zplsx4G
 
 <h1> Summary </h1>
 
