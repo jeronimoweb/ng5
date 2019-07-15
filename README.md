@@ -8,7 +8,7 @@
 
 <p>Website developed for our client "NG5". This website was developed by me and Ricardo Jacinto, developers at Ensaio De Cor.</p>
 
-<h2>Check my website @ <a href="https://www.ng5.pt"> NG5 </a>  </h2>
+<h2>Check my website @ <a href="https://www.ng5.pt" target="_blank"> NG5 </a>  </h2>
 
 <h2> Developed features: </h2>
 <ul>
@@ -22,5 +22,5 @@
 </ul>
 
 	
-<h2>Check my website @ <a href="https://www.ng5.pt"> NG5 </a>  </h2>
+<h2>Check my website @ <a href="https://www.ng5.pt" target="_blank"> NG5 </a>  </h2>
 
