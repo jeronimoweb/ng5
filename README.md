@@ -23,4 +23,4 @@
 <h2>Check my website @ <a href="https://www.ng5.pt" target="_blank"> NG5 </a>  </h2>
 
 <p>All rights reserved to Jarpis, LDA.<br/>
-Developed and designed by Ensaio de cor.</p>
+<p>Developed and designed by Ensaio de cor.</p>
